@@ -17,8 +17,8 @@ A terminal Snake game written in Rust.
 Requires [Rust](https://rustup.rs).
 
 ```sh
-git clone https://github.com/eoftgge/termsnake
-cd termsnake
+git clone https://github.com/eoftgge/snake
+cd snake
 cargo run --release
 ```
 
